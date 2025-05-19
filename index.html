@@ -26,12 +26,9 @@
       zoomControl: false
     }).setView([52.9, -1.5], 7);
     // Базовый слой OpenStreetMap
-    L.tileLayer(
-        'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png',
-        {
-          attribution: '© Stadia Maps',
-        }
-      ).addTo(map);
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    attribution: '@ESRI, СК: WGS 84'
+    }).addTo(map);
 
     // Инициализация групп слоев
     const leagueLayers = {
