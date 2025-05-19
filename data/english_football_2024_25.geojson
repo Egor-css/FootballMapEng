@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.1084,
-          51.55504
-        ]
+        "coordinates": [-0.1084, 51.55504]
       },
       "properties": {
         "team": "Arsenal",
@@ -22,10 +19,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.885035,
-          52.509126
-        ]
+        "coordinates": [-1.885035, 52.509126]
       },
       "properties": {
         "team": "Aston Villa",
@@ -39,10 +33,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.838328,
-          50.735181
-        ]
+        "coordinates": [-1.838328, 50.735181]
       },
       "properties": {
         "team": "Bournemouth",
@@ -56,10 +47,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.28898,
-          51.490713
-        ]
+        "coordinates": [-0.28898, 51.490713]
       },
       "properties": {
         "team": "Brentford",
@@ -73,10 +61,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.083693,
-          50.861547
-        ]
+        "coordinates": [-0.083693, 50.861547]
       },
       "properties": {
         "team": "Brighton & Hove Albion",
@@ -90,10 +75,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.191034,
-          51.481687
-        ]
+        "coordinates": [-0.191034, 51.481687]
       },
       "properties": {
         "team": "Chelsea",
@@ -107,10 +89,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.085255,
-          51.398243
-        ]
+        "coordinates": [-0.085255, 51.398243]
       },
       "properties": {
         "team": "Crystal Palace",
@@ -124,10 +103,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.966419,
-          53.43869
-        ]
+        "coordinates": [-2.966419, 53.43869]
       },
       "properties": {
         "team": "Everton",
@@ -141,10 +117,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.221745,
-          51.474922
-        ]
+        "coordinates": [-0.221745, 51.474922]
       },
       "properties": {
         "team": "Fulham",
@@ -158,10 +131,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.291124,
-          51.408498
-        ]
+        "coordinates": [1.1452820683663392, 52.05506492730937]
       },
       "properties": {
         "team": "Ipswich Town",
@@ -175,10 +145,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.142335,
-          52.620397
-        ]
+        "coordinates": [-1.142335, 52.620397]
       },
       "properties": {
         "team": "Leicester City",
@@ -192,10 +159,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.960931,
-          53.430916
-        ]
+        "coordinates": [-2.960931, 53.430916]
       },
       "properties": {
         "team": "Liverpool",
@@ -209,10 +173,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.200252,
-          53.483091
-        ]
+        "coordinates": [-2.200252, 53.483091]
       },
       "properties": {
         "team": "Manchester City",
@@ -226,10 +187,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.291386,
-          53.46311
-        ]
+        "coordinates": [-2.291386, 53.46311]
       },
       "properties": {
         "team": "Manchester United",
@@ -243,10 +201,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.621874,
-          54.975469
-        ]
+        "coordinates": [-1.621874, 54.975469]
       },
       "properties": {
         "team": "Newcastle United",
@@ -260,10 +215,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.132895,
-          52.939939
-        ]
+        "coordinates": [-1.132895, 52.939939]
       },
       "properties": {
         "team": "Nottingham Forest",
@@ -277,10 +229,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.390877,
-          50.905861
-        ]
+        "coordinates": [-1.390877, 50.905861]
       },
       "properties": {
         "team": "Southampton",
@@ -294,10 +243,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.06626,
-          51.604157
-        ]
+        "coordinates": [-0.06626, 51.604157]
       },
       "properties": {
         "team": "Tottenham Hotspur",
@@ -311,10 +257,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.016624,
-          51.538621
-        ]
+        "coordinates": [-0.016624, 51.538621]
       },
       "properties": {
         "team": "West Ham United",
@@ -328,10 +271,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.130408,
-          52.590272
-        ]
+        "coordinates": [-2.130408, 52.590272]
       },
       "properties": {
         "team": "Wolverhampton Wanderers",
@@ -345,10 +285,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.489225,
-          53.728528
-        ]
+        "coordinates": [-2.489225, 53.728528]
       },
       "properties": {
         "team": "Blackburn Rovers",
@@ -362,10 +299,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.620341,
-          51.439869
-        ]
+        "coordinates": [-2.620341, 51.439869]
       },
       "properties": {
         "team": "Bristol City",
@@ -379,10 +313,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.229895,
-          53.789355
-        ]
+        "coordinates": [-2.229895, 53.789355]
       },
       "properties": {
         "team": "Burnley",
@@ -396,10 +327,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.202963,
-          51.472821
-        ]
+        "coordinates": [-3.202963, 51.472821]
       },
       "properties": {
         "team": "Cardiff City",
@@ -413,10 +341,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.497017,
-          52.448158
-        ]
+        "coordinates": [-1.497017, 52.448158]
       },
       "properties": {
         "team": "Coventry City",
@@ -430,10 +355,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.447319,
-          52.914945
-        ]
+        "coordinates": [-1.447319, 52.914945]
       },
       "properties": {
         "team": "Derby County",
@@ -447,10 +369,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.367824,
-          53.746226
-        ]
+        "coordinates": [-0.367824, 53.746226]
       },
       "properties": {
         "team": "Hull City",
@@ -464,10 +383,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.054261,
-          51.458745
-        ]
+        "coordinates": [-1.5721660603678305, 53.777911270253355]
       },
       "properties": {
         "team": "Leeds United",
@@ -481,10 +397,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.54519,
-          52.321458
-        ]
+        "coordinates": [-0.4316237739731969, 51.88435300774205]
       },
       "properties": {
         "team": "Luton Town",
@@ -498,10 +411,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.216915,
-          54.578313
-        ]
+        "coordinates": [-1.216915, 54.578313]
       },
       "properties": {
         "team": "Middlesbrough",
@@ -515,10 +425,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.050915,
-          51.485953
-        ]
+        "coordinates": [-0.050915, 51.485953]
       },
       "properties": {
         "team": "Millwall",
@@ -532,10 +439,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.309322,
-          52.622031
-        ]
+        "coordinates": [1.309322, 52.622031]
       },
       "properties": {
         "team": "Norwich City",
@@ -549,10 +453,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.20766,
-          51.716467
-        ]
+        "coordinates": [-1.20766, 51.716467]
       },
       "properties": {
         "team": "Oxford United",
@@ -566,10 +467,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -4.150875,
-          50.388122
-        ]
+        "coordinates": [-4.150875, 50.388122]
       },
       "properties": {
         "team": "Plymouth Argyle",
@@ -583,10 +481,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.063884,
-          50.796324
-        ]
+        "coordinates": [-1.063884, 50.796324]
       },
       "properties": {
         "team": "Portsmouth",
@@ -600,10 +495,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.688561,
-          53.772215
-        ]
+        "coordinates": [-2.688561, 53.772215]
       },
       "properties": {
         "team": "Preston North End",
@@ -617,10 +509,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.230552,
-          51.507446
-        ]
+        "coordinates": [-0.230552, 51.507446]
       },
       "properties": {
         "team": "Queens Park Rangers",
@@ -634,10 +523,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.470715,
-          53.370343
-        ]
+        "coordinates": [-1.470715, 53.370343]
       },
       "properties": {
         "team": "Sheffield United",
@@ -651,10 +537,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.500631,
-          53.411379
-        ]
+        "coordinates": [-1.500631, 53.411379]
       },
       "properties": {
         "team": "Sheffield Wednesday",
@@ -668,10 +551,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.175592,
-          52.98834
-        ]
+        "coordinates": [-2.175592, 52.98834]
       },
       "properties": {
         "team": "Stoke City",
@@ -685,10 +565,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.388258,
-          54.914395
-        ]
+        "coordinates": [-1.388258, 54.914395]
       },
       "properties": {
         "team": "Sunderland",
@@ -702,10 +579,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.934739,
-          51.642806
-        ]
+        "coordinates": [-3.934739, 51.642806]
       },
       "properties": {
         "team": "Swansea City",
@@ -719,10 +593,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          0.054836,
-          51.60093
-        ]
+        "coordinates": [-0.4014854874811838, 51.650033095263154]
       },
       "properties": {
         "team": "Watford",
@@ -736,10 +607,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.963662,
-          52.509165
-        ]
+        "coordinates": [-1.963662, 52.509165]
       },
       "properties": {
         "team": "West Bromwich Albion",
@@ -753,10 +621,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.472195,
-          53.55218
-        ]
+        "coordinates": [-1.472195, 53.55218]
       },
       "properties": {
         "team": "Barnsley",
@@ -770,10 +635,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.868041,
-          52.475567
-        ]
+        "coordinates": [-1.868041, 52.475567]
       },
       "properties": {
         "team": "Birmingham City",
@@ -787,10 +649,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          0.071491,
-          51.484962
-        ]
+        "coordinates": [0.071491, 51.484962]
       },
       "properties": {
         "team": "Blackpool",
@@ -804,10 +663,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.535665,
-          53.58054
-        ]
+        "coordinates": [-2.535665, 53.58054]
       },
       "properties": {
         "team": "Bolton Wanderers",
@@ -821,10 +677,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.583184,
-          51.486259
-        ]
+        "coordinates": [-2.583184, 51.486259]
       },
       "properties": {
         "team": "Bristol Rovers",
@@ -838,10 +691,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.626926,
-          52.821851
-        ]
+        "coordinates": [-1.626926, 52.821851]
       },
       "properties": {
         "team": "Burton Albion",
@@ -855,10 +705,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.792433,
-          51.607755
-        ]
+        "coordinates": [-1.792433, 51.607755]
       },
       "properties": {
         "team": "Cambridge United",
@@ -872,10 +719,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          0.036158,
-          51.486391
-        ]
+        "coordinates": [0.036158, 51.486391]
       },
       "properties": {
         "team": "Charlton Athletic",
@@ -889,10 +733,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.194743,
-          51.099573
-        ]
+        "coordinates": [-0.194743, 51.099573]
       },
       "properties": {
         "team": "Crawley Town",
@@ -906,10 +747,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.621874,
-          54.975469
-        ]
+        "coordinates": [-1.621874, 54.975469]
       },
       "properties": {
         "team": "Exeter City",
@@ -923,10 +761,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.7709,
-          53.6543
-        ]
+        "coordinates": [-1.7709, 53.6543]
       },
       "properties": {
         "team": "Huddersfield Town",
@@ -940,10 +775,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.0126,
-          51.560071
-        ]
+        "coordinates": [-0.0126, 51.560071]
       },
       "properties": {
         "team": "Leyton Orient",
@@ -957,10 +789,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.53973,
-          53.223517
-        ]
+        "coordinates": [-0.53973, 53.223517]
       },
       "properties": {
         "team": "Lincoln City",
@@ -974,10 +803,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.200917,
-          53.138056
-        ]
+        "coordinates": [-1.200917, 53.138056]
       },
       "properties": {
         "team": "Mansfield Town",
@@ -991,10 +817,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.933574,
-          52.235263
-        ]
+        "coordinates": [-0.933574, 52.235263]
       },
       "properties": {
         "team": "Northampton Town",
@@ -1008,10 +831,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.2403,
-          52.5607
-        ]
+        "coordinates": [-0.2403, 52.5607]
       },
       "properties": {
         "team": "Peterborough United",
@@ -1025,10 +845,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.983124,
-          51.422335
-        ]
+        "coordinates": [-0.983124, 51.422335]
       },
       "properties": {
         "team": "Reading",
@@ -1042,10 +859,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.362678,
-          53.426785
-        ]
+        "coordinates": [-1.362678, 53.426785]
       },
       "properties": {
         "team": "Rotherham United",
@@ -1059,10 +873,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.749357,
-          52.688616
-        ]
+        "coordinates": [-2.749357, 52.688616]
       },
       "properties": {
         "team": "Shrewsbury Town",
@@ -1076,10 +887,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.193741,
-          51.889648
-        ]
+        "coordinates": [-0.193741, 51.889648]
       },
       "properties": {
         "team": "Stevenage",
@@ -1093,10 +901,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.166484,
-          53.399643
-        ]
+        "coordinates": [-2.166484, 53.399643]
       },
       "properties": {
         "team": "Stockport County",
@@ -1110,10 +915,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.654013,
-          53.547733
-        ]
+        "coordinates": [-2.654013, 53.547733]
       },
       "properties": {
         "team": "Wigan Athletic",
@@ -1127,10 +929,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.003664,
-          53.051824
-        ]
+        "coordinates": [-3.003664, 53.051824]
       },
       "properties": {
         "team": "Wrexham",
@@ -1144,10 +943,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.800191,
-          51.630566
-        ]
+        "coordinates": [-0.800191, 51.630566]
       },
       "properties": {
         "team": "Wycombe Wanderers",
@@ -1161,10 +957,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.370969,
-          53.765401
-        ]
+        "coordinates": [-2.370969, 53.765401]
       },
       "properties": {
         "team": "Accrington Stanley",
@@ -1178,10 +971,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.188127,
-          51.428415
-        ]
+        "coordinates": [-0.188127, 51.428415]
       },
       "properties": {
         "team": "AFC Wimbledon",
@@ -1195,10 +985,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.776357,
-          53.801774
-        ]
+        "coordinates": [-1.776357, 53.801774]
       },
       "properties": {
         "team": "Barrow",
@@ -1212,10 +999,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.759383,
-          53.80433
-        ]
+        "coordinates": [-1.759383, 53.80433]
       },
       "properties": {
         "team": "Bradford City",
@@ -1229,10 +1013,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          0.017221,
-          51.384301
-        ]
+        "coordinates": [0.017221, 51.384301]
       },
       "properties": {
         "team": "Bromley",
@@ -1246,10 +1027,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.9136,
-          54.895553
-        ]
+        "coordinates": [-2.9136, 54.895553]
       },
       "properties": {
         "team": "Carlisle United",
@@ -1263,10 +1041,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.060215,
-          51.906178
-        ]
+        "coordinates": [-2.060215, 51.906178]
       },
       "properties": {
         "team": "Cheltenham Town",
@@ -1280,10 +1055,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.425819,
-          53.253558
-        ]
+        "coordinates": [-1.425819, 53.253558]
       },
       "properties": {
         "team": "Chesterfield",
@@ -1297,10 +1069,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          0.897648,
-          51.923439
-        ]
+        "coordinates": [0.897648, 51.923439]
       },
       "properties": {
         "team": "Colchester United",
@@ -1314,10 +1083,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.43655,
-          53.086083
-        ]
+        "coordinates": [-2.43655, 53.086083]
       },
       "properties": {
         "team": "Crewe Alexandra",
@@ -1331,10 +1097,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.113771,
-          53.509778
-        ]
+        "coordinates": [-1.113771, 53.509778]
       },
       "properties": {
         "team": "Doncaster Rovers",
@@ -1348,10 +1111,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.024694,
-          53.916397
-        ]
+        "coordinates": [-3.024694, 53.916397]
       },
       "properties": {
         "team": "Fleetwood Town",
@@ -1365,10 +1125,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          0.56095,
-          51.384211
-        ]
+        "coordinates": [0.56095, 51.384211]
       },
       "properties": {
         "team": "Gillingham",
@@ -1382,10 +1139,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.046512,
-          53.57023
-        ]
+        "coordinates": [-0.046512, 53.57023]
       },
       "properties": {
         "team": "Grimsby Town",
@@ -1399,10 +1153,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.088499,
-          51.665159
-        ]
+        "coordinates": [-0.088499, 51.665159]
       },
       "properties": {
         "team": "Harrogate Town",
@@ -1416,10 +1167,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.73354,
-          52.009625
-        ]
+        "coordinates": [-0.73354, 52.009625]
       },
       "properties": {
         "team": "Milton Keynes Dons",
@@ -1433,10 +1181,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.7879,
-          54.1239
-        ]
+        "coordinates": [-2.7879, 54.1239]
       },
       "properties": {
         "team": "Morecambe",
@@ -1450,10 +1195,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.0251166306431987,
-          51.68028643122347
-        ]
+        "coordinates": [-3.0251166306431987, 51.68028643122347]
       },
       "properties": {
         "team": "Newport County",
@@ -1467,10 +1209,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.681557,
-          51.639946
-        ]
+        "coordinates": [-2.681557, 51.639946]
       },
       "properties": {
         "team": "Notts County",
@@ -1484,10 +1223,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.192698,
-          53.049956
-        ]
+        "coordinates": [-2.192698, 53.049956]
       },
       "properties": {
         "team": "Port Vale",
@@ -1501,10 +1237,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.276907,
-          53.513604
-        ]
+        "coordinates": [-2.276907, 53.513604]
       },
       "properties": {
         "team": "Salford City",
@@ -1518,10 +1251,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.101079,
-          51.018906
-        ]
+        "coordinates": [-3.101079, 51.018906]
       },
       "properties": {
         "team": "Swindon Town",
@@ -1535,10 +1265,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.032617,
-          53.373679
-        ]
+        "coordinates": [-3.032617, 53.373679]
       },
       "properties": {
         "team": "Tranmere Rovers",
@@ -1552,10 +1279,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.990498,
-          52.565501
-        ]
+        "coordinates": [-1.990498, 52.565501]
       },
       "properties": {
         "team": "Walsall",
