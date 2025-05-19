@@ -20,7 +20,7 @@ body{
     font-family: PremierLeague;
     font-size: 40px;
     color: white;
-    background-image: url("/icons/epl_design.png");
+    background-image: url("./icons/epl_design.png");
 }
 .team-popup{
     font-family: PremierLeague;
@@ -37,7 +37,7 @@ body{
       top: 50px;
       right: 5px;
       z-index: 1000;
-      background-image: url("/icons/epl_design.png");
+      background-image: url("./icons/epl_design.png");
       padding: 5px 5px;
       border-radius: 4px;
       box-shadow: 0 5px 5px rgba(0, 0, 0, 0.302);
