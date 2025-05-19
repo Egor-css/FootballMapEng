@@ -26,8 +26,8 @@
       zoomControl: false
     }).setView([52.9, -1.5], 7);
     // Базовый слой OpenStreetMap
-    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-    attribution: '@ESRI, СК: WGS 84'
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors, СК: WGS 84'
     }).addTo(map);
 
     // Инициализация групп слоев
