@@ -27,7 +27,8 @@
     }).setView([52.9, -1.5], 7);
     // Базовый слой OpenStreetMap
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors, СК: WGS 84'
+    attribution: '© OpenStreetMap contributors, СК: WGS 84',
+    minZoom: 4
     }).addTo(map);
 
     // Инициализация групп слоев
