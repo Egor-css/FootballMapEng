@@ -1,0 +1,1569 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1084,
+          51.55504
+        ]
+      },
+      "properties": {
+        "team": "Arsenal",
+        "league": "Premier League",
+        "stadium": "Emirates Stadium",
+        "capacity": 60704,
+        "icon": "icons/arsenal.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.885035,
+          52.509126
+        ]
+      },
+      "properties": {
+        "team": "Aston Villa",
+        "league": "Premier League",
+        "stadium": "Villa Park",
+        "capacity": 42657,
+        "icon": "icons/aston_villa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.838328,
+          50.735181
+        ]
+      },
+      "properties": {
+        "team": "Bournemouth",
+        "league": "Premier League",
+        "stadium": "Vitality Stadium",
+        "capacity": 11307,
+        "icon": "icons/bournemouth.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.28898,
+          51.490713
+        ]
+      },
+      "properties": {
+        "team": "Brentford",
+        "league": "Premier League",
+        "stadium": "Gtech Community Stadium",
+        "capacity": 17250,
+        "icon": "icons/brentford.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083693,
+          50.861547
+        ]
+      },
+      "properties": {
+        "team": "Brighton & Hove Albion",
+        "league": "Premier League",
+        "stadium": "American Express Stadium",
+        "capacity": 31800,
+        "icon": "icons/brighton_&_hove_albion.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.191034,
+          51.481687
+        ]
+      },
+      "properties": {
+        "team": "Chelsea",
+        "league": "Premier League",
+        "stadium": "Stamford Bridge",
+        "capacity": 40173,
+        "icon": "icons/chelsea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085255,
+          51.398243
+        ]
+      },
+      "properties": {
+        "team": "Crystal Palace",
+        "league": "Premier League",
+        "stadium": "Selhurst Park",
+        "capacity": 25486,
+        "icon": "icons/crystal_palace.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.966419,
+          53.43869
+        ]
+      },
+      "properties": {
+        "team": "Everton",
+        "league": "Premier League",
+        "stadium": "Goodison Park",
+        "capacity": 39414,
+        "icon": "icons/everton.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.221745,
+          51.474922
+        ]
+      },
+      "properties": {
+        "team": "Fulham",
+        "league": "Premier League",
+        "stadium": "Craven Cottage",
+        "capacity": 22500,
+        "icon": "icons/fulham.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.291124,
+          51.408498
+        ]
+      },
+      "properties": {
+        "team": "Ipswich Town",
+        "league": "Premier League",
+        "stadium": "Portman Road",
+        "capacity": 29673,
+        "icon": "icons/ipswich_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.142335,
+          52.620397
+        ]
+      },
+      "properties": {
+        "team": "Leicester City",
+        "league": "Premier League",
+        "stadium": "King Power Stadium",
+        "capacity": 32312,
+        "icon": "icons/leicester_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.960931,
+          53.430916
+        ]
+      },
+      "properties": {
+        "team": "Liverpool",
+        "league": "Premier League",
+        "stadium": "Anfield",
+        "capacity": 53394,
+        "icon": "icons/liverpool.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.200252,
+          53.483091
+        ]
+      },
+      "properties": {
+        "team": "Manchester City",
+        "league": "Premier League",
+        "stadium": "Etihad Stadium",
+        "capacity": 53400,
+        "icon": "icons/manchester_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.291386,
+          53.46311
+        ]
+      },
+      "properties": {
+        "team": "Manchester United",
+        "league": "Premier League",
+        "stadium": "Old Trafford",
+        "capacity": 74310,
+        "icon": "icons/manchester_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.621874,
+          54.975469
+        ]
+      },
+      "properties": {
+        "team": "Newcastle United",
+        "league": "Premier League",
+        "stadium": "St James' Park",
+        "capacity": 52305,
+        "icon": "icons/newcastle_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.132895,
+          52.939939
+        ]
+      },
+      "properties": {
+        "team": "Nottingham Forest",
+        "league": "Premier League",
+        "stadium": "City Ground",
+        "capacity": 30404,
+        "icon": "icons/nottingham_forest.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.390877,
+          50.905861
+        ]
+      },
+      "properties": {
+        "team": "Southampton",
+        "league": "Premier League",
+        "stadium": "St Mary's Stadium",
+        "capacity": 32384,
+        "icon": "icons/southampton.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06626,
+          51.604157
+        ]
+      },
+      "properties": {
+        "team": "Tottenham Hotspur",
+        "league": "Premier League",
+        "stadium": "Tottenham Hotspur Stadium",
+        "capacity": 62850,
+        "icon": "icons/tottenham_hotspur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016624,
+          51.538621
+        ]
+      },
+      "properties": {
+        "team": "West Ham United",
+        "league": "Premier League",
+        "stadium": "London Stadium",
+        "capacity": 62500,
+        "icon": "icons/west_ham_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.130408,
+          52.590272
+        ]
+      },
+      "properties": {
+        "team": "Wolverhampton Wanderers",
+        "league": "Premier League",
+        "stadium": "Molineux Stadium",
+        "capacity": 31750,
+        "icon": "icons/wolverhampton_wanderers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.489225,
+          53.728528
+        ]
+      },
+      "properties": {
+        "team": "Blackburn Rovers",
+        "league": "EFL Championship",
+        "stadium": "Ewood Park",
+        "capacity": 31367,
+        "icon": "icons/blackburn_rovers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.620341,
+          51.439869
+        ]
+      },
+      "properties": {
+        "team": "Bristol City",
+        "league": "EFL Championship",
+        "stadium": "Ashton Gate",
+        "capacity": 27000,
+        "icon": "icons/bristol_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.229895,
+          53.789355
+        ]
+      },
+      "properties": {
+        "team": "Burnley",
+        "league": "EFL Championship",
+        "stadium": "Turf Moor",
+        "capacity": 21944,
+        "icon": "icons/burnley.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.202963,
+          51.472821
+        ]
+      },
+      "properties": {
+        "team": "Cardiff City",
+        "league": "EFL Championship",
+        "stadium": "Cardiff City Stadium",
+        "capacity": 33280,
+        "icon": "icons/cardiff_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.497017,
+          52.448158
+        ]
+      },
+      "properties": {
+        "team": "Coventry City",
+        "league": "EFL Championship",
+        "stadium": "Coventry Building Society Arena",
+        "capacity": 32609,
+        "icon": "icons/coventry_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.447319,
+          52.914945
+        ]
+      },
+      "properties": {
+        "team": "Derby County",
+        "league": "EFL Championship",
+        "stadium": "Pride Park Stadium",
+        "capacity": 32956,
+        "icon": "icons/derby_county.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.367824,
+          53.746226
+        ]
+      },
+      "properties": {
+        "team": "Hull City",
+        "league": "EFL Championship",
+        "stadium": "MKM Stadium",
+        "capacity": 25404,
+        "icon": "icons/hull_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.054261,
+          51.458745
+        ]
+      },
+      "properties": {
+        "team": "Leeds United",
+        "league": "EFL Championship",
+        "stadium": "Elland Road",
+        "capacity": 37608,
+        "icon": "icons/leeds_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54519,
+          52.321458
+        ]
+      },
+      "properties": {
+        "team": "Luton Town",
+        "league": "EFL Championship",
+        "stadium": "Kenilworth Road",
+        "capacity": 12000,
+        "icon": "icons/luton_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.216915,
+          54.578313
+        ]
+      },
+      "properties": {
+        "team": "Middlesbrough",
+        "league": "EFL Championship",
+        "stadium": "Riverside Stadium",
+        "capacity": 34742,
+        "icon": "icons/middlesbrough.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.050915,
+          51.485953
+        ]
+      },
+      "properties": {
+        "team": "Millwall",
+        "league": "EFL Championship",
+        "stadium": "The Den",
+        "capacity": 20146,
+        "icon": "icons/millwall.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.309322,
+          52.622031
+        ]
+      },
+      "properties": {
+        "team": "Norwich City",
+        "league": "EFL Championship",
+        "stadium": "Carrow Road",
+        "capacity": 27244,
+        "icon": "icons/norwich_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.20766,
+          51.716467
+        ]
+      },
+      "properties": {
+        "team": "Oxford United",
+        "league": "EFL Championship",
+        "stadium": "Kassam Stadium",
+        "capacity": 12500,
+        "icon": "icons/oxford_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.150875,
+          50.388122
+        ]
+      },
+      "properties": {
+        "team": "Plymouth Argyle",
+        "league": "EFL Championship",
+        "stadium": "Home Park",
+        "capacity": 17900,
+        "icon": "icons/plymouth_argyle.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.063884,
+          50.796324
+        ]
+      },
+      "properties": {
+        "team": "Portsmouth",
+        "league": "EFL Championship",
+        "stadium": "Fratton Park",
+        "capacity": 21100,
+        "icon": "icons/portsmouth.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.688561,
+          53.772215
+        ]
+      },
+      "properties": {
+        "team": "Preston North End",
+        "league": "EFL Championship",
+        "stadium": "Deepdale",
+        "capacity": 23408,
+        "icon": "icons/preston_north_end.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.230552,
+          51.507446
+        ]
+      },
+      "properties": {
+        "team": "Queens Park Rangers",
+        "league": "EFL Championship",
+        "stadium": "Loftus Road",
+        "capacity": 18360,
+        "icon": "icons/queens_park_rangers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.470715,
+          53.370343
+        ]
+      },
+      "properties": {
+        "team": "Sheffield United",
+        "league": "EFL Championship",
+        "stadium": "Bramall Lane",
+        "capacity": 32050,
+        "icon": "icons/sheffield_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.500631,
+          53.411379
+        ]
+      },
+      "properties": {
+        "team": "Sheffield Wednesday",
+        "league": "EFL Championship",
+        "stadium": "Hillsborough Stadium",
+        "capacity": 39859,
+        "icon": "icons/sheffield_wednesday.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.175592,
+          52.98834
+        ]
+      },
+      "properties": {
+        "team": "Stoke City",
+        "league": "EFL Championship",
+        "stadium": "bet365 Stadium",
+        "capacity": 30089,
+        "icon": "icons/stoke_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.388258,
+          54.914395
+        ]
+      },
+      "properties": {
+        "team": "Sunderland",
+        "league": "EFL Championship",
+        "stadium": "Stadium of Light",
+        "capacity": 49000,
+        "icon": "icons/sunderland.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.934739,
+          51.642806
+        ]
+      },
+      "properties": {
+        "team": "Swansea City",
+        "league": "EFL Championship",
+        "stadium": "Swansea.com Stadium",
+        "capacity": 21088,
+        "icon": "icons/swansea_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.054836,
+          51.60093
+        ]
+      },
+      "properties": {
+        "team": "Watford",
+        "league": "EFL Championship",
+        "stadium": "Vicarage Road",
+        "capacity": 22200,
+        "icon": "icons/watford.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.963662,
+          52.509165
+        ]
+      },
+      "properties": {
+        "team": "West Bromwich Albion",
+        "league": "EFL Championship",
+        "stadium": "The Hawthorns",
+        "capacity": 26688,
+        "icon": "icons/west_bromwich_albion.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.472195,
+          53.55218
+        ]
+      },
+      "properties": {
+        "team": "Barnsley",
+        "league": "EFL League One",
+        "stadium": "Oakwell",
+        "capacity": 23287,
+        "icon": "icons/barnsley.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.868041,
+          52.475567
+        ]
+      },
+      "properties": {
+        "team": "Birmingham City",
+        "league": "EFL League One",
+        "stadium": "St Andrew's",
+        "capacity": 29409,
+        "icon": "icons/birmingham_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.071491,
+          51.484962
+        ]
+      },
+      "properties": {
+        "team": "Blackpool",
+        "league": "EFL League One",
+        "stadium": "Bloomfield Road",
+        "capacity": 16616,
+        "icon": "icons/blackpool.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.535665,
+          53.58054
+        ]
+      },
+      "properties": {
+        "team": "Bolton Wanderers",
+        "league": "EFL League One",
+        "stadium": "Toughsheet Community Stadium",
+        "capacity": 28723,
+        "icon": "icons/bolton_wanderers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.583184,
+          51.486259
+        ]
+      },
+      "properties": {
+        "team": "Bristol Rovers",
+        "league": "EFL League One",
+        "stadium": "Memorial Stadium",
+        "capacity": 9832,
+        "icon": "icons/bristol_rovers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.626926,
+          52.821851
+        ]
+      },
+      "properties": {
+        "team": "Burton Albion",
+        "league": "EFL League One",
+        "stadium": "Pirelli Stadium",
+        "capacity": 6912,
+        "icon": "icons/burton_albion.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.792433,
+          51.607755
+        ]
+      },
+      "properties": {
+        "team": "Cambridge United",
+        "league": "EFL League One",
+        "stadium": "Abbey Stadium",
+        "capacity": 8127,
+        "icon": "icons/cambridge_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.036158,
+          51.486391
+        ]
+      },
+      "properties": {
+        "team": "Charlton Athletic",
+        "league": "EFL League One",
+        "stadium": "The Valley",
+        "capacity": 27111,
+        "icon": "icons/charlton_athletic.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.194743,
+          51.099573
+        ]
+      },
+      "properties": {
+        "team": "Crawley Town",
+        "league": "EFL League One",
+        "stadium": "Broadfield Stadium",
+        "capacity": 5996,
+        "icon": "icons/crawley_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.621874,
+          54.975469
+        ]
+      },
+      "properties": {
+        "team": "Exeter City",
+        "league": "EFL League One",
+        "stadium": "St. James Park",
+        "capacity": 8720,
+        "icon": "icons/exeter_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7709,
+          53.6543
+        ]
+      },
+      "properties": {
+        "team": "Huddersfield Town",
+        "league": "EFL League One",
+        "stadium": "Kirklees Stadium",
+        "capacity": 24121,
+        "icon": "icons/huddersfield_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0126,
+          51.560071
+        ]
+      },
+      "properties": {
+        "team": "Leyton Orient",
+        "league": "EFL League One",
+        "stadium": "Brisbane Road",
+        "capacity": 9271,
+        "icon": "icons/leyton_orient.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53973,
+          53.223517
+        ]
+      },
+      "properties": {
+        "team": "Lincoln City",
+        "league": "EFL League One",
+        "stadium": "Sincil Bank",
+        "capacity": 10669,
+        "icon": "icons/lincoln_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.200917,
+          53.138056
+        ]
+      },
+      "properties": {
+        "team": "Mansfield Town",
+        "league": "EFL League One",
+        "stadium": "Field Mill",
+        "capacity": 9186,
+        "icon": "icons/mansfield_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.933574,
+          52.235263
+        ]
+      },
+      "properties": {
+        "team": "Northampton Town",
+        "league": "EFL League One",
+        "stadium": "Sixfields Stadium",
+        "capacity": 8200,
+        "icon": "icons/northampton_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2403,
+          52.5607
+        ]
+      },
+      "properties": {
+        "team": "Peterborough United",
+        "league": "EFL League One",
+        "stadium": "London Road Stadium",
+        "capacity": 13511,
+        "icon": "icons/peterborough_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.983124,
+          51.422335
+        ]
+      },
+      "properties": {
+        "team": "Reading",
+        "league": "EFL League One",
+        "stadium": "Madejski Stadium",
+        "capacity": 24161,
+        "icon": "icons/reading.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.362678,
+          53.426785
+        ]
+      },
+      "properties": {
+        "team": "Rotherham United",
+        "league": "EFL League One",
+        "stadium": "New York Stadium",
+        "capacity": 12021,
+        "icon": "icons/rotherham_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.749357,
+          52.688616
+        ]
+      },
+      "properties": {
+        "team": "Shrewsbury Town",
+        "league": "EFL League One",
+        "stadium": "New Meadow",
+        "capacity": 9875,
+        "icon": "icons/shrewsbury_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.193741,
+          51.889648
+        ]
+      },
+      "properties": {
+        "team": "Stevenage",
+        "league": "EFL League One",
+        "stadium": "Broadhall Way",
+        "capacity": 7800,
+        "icon": "icons/stevenage.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.166484,
+          53.399643
+        ]
+      },
+      "properties": {
+        "team": "Stockport County",
+        "league": "EFL League One",
+        "stadium": "Edgeley Park",
+        "capacity": 10852,
+        "icon": "icons/stockport_county.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.654013,
+          53.547733
+        ]
+      },
+      "properties": {
+        "team": "Wigan Athletic",
+        "league": "EFL League One",
+        "stadium": "Brick Community Stadium",
+        "capacity": 25138,
+        "icon": "icons/wigan_athletic.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.003664,
+          53.051824
+        ]
+      },
+      "properties": {
+        "team": "Wrexham",
+        "league": "EFL League One",
+        "stadium": "Racecourse Ground",
+        "capacity": 13341,
+        "icon": "icons/wrexham.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.800191,
+          51.630566
+        ]
+      },
+      "properties": {
+        "team": "Wycombe Wanderers",
+        "league": "EFL League One",
+        "stadium": "Adams Park",
+        "capacity": 10137,
+        "icon": "icons/wycombe_wanderers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.370969,
+          53.765401
+        ]
+      },
+      "properties": {
+        "team": "Accrington Stanley",
+        "league": "EFL League Two",
+        "stadium": "Crown Ground",
+        "capacity": 5450,
+        "icon": "icons/accrington_stanley.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.188127,
+          51.428415
+        ]
+      },
+      "properties": {
+        "team": "AFC Wimbledon",
+        "league": "EFL League Two",
+        "stadium": "Plough Lane",
+        "capacity": 9369,
+        "icon": "icons/afc_wimbledon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.776357,
+          53.801774
+        ]
+      },
+      "properties": {
+        "team": "Barrow",
+        "league": "EFL League Two",
+        "stadium": "Holker Street",
+        "capacity": 6500,
+        "icon": "icons/barrow.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.759383,
+          53.80433
+        ]
+      },
+      "properties": {
+        "team": "Bradford City",
+        "league": "EFL League Two",
+        "stadium": "Valley Parade",
+        "capacity": 24840,
+        "icon": "icons/bradford_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.017221,
+          51.384301
+        ]
+      },
+      "properties": {
+        "team": "Bromley",
+        "league": "EFL League Two",
+        "stadium": "Hayes Lane",
+        "capacity": 5300,
+        "icon": "icons/bromley.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9136,
+          54.895553
+        ]
+      },
+      "properties": {
+        "team": "Carlisle United",
+        "league": "EFL League Two",
+        "stadium": "Brunton Park",
+        "capacity": 17949,
+        "icon": "icons/carlisle_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.060215,
+          51.906178
+        ]
+      },
+      "properties": {
+        "team": "Cheltenham Town",
+        "league": "EFL League Two",
+        "stadium": "Whaddon Road",
+        "capacity": 7066,
+        "icon": "icons/cheltenham_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.425819,
+          53.253558
+        ]
+      },
+      "properties": {
+        "team": "Chesterfield",
+        "league": "EFL League Two",
+        "stadium": "SMH Group Stadium",
+        "capacity": 10504,
+        "icon": "icons/chesterfield.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.897648,
+          51.923439
+        ]
+      },
+      "properties": {
+        "team": "Colchester United",
+        "league": "EFL League Two",
+        "stadium": "Colchester Community Stadium",
+        "capacity": 10105,
+        "icon": "icons/colchester_united.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.43655,
+          53.086083
+        ]
+      },
+      "properties": {
+        "team": "Crewe Alexandra",
+        "league": "EFL League Two",
+        "stadium": "Gresty Road",
+        "capacity": 10153,
+        "icon": "icons/crewe_alexandra.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.113771,
+          53.509778
+        ]
+      },
+      "properties": {
+        "team": "Doncaster Rovers",
+        "league": "EFL League Two",
+        "stadium": "Eco-Power Stadium",
+        "capacity": 15231,
+        "icon": "icons/doncaster_rovers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.024694,
+          53.916397
+        ]
+      },
+      "properties": {
+        "team": "Fleetwood Town",
+        "league": "EFL League Two",
+        "stadium": "Highbury Stadium",
+        "capacity": 5327,
+        "icon": "icons/fleetwood_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56095,
+          51.384211
+        ]
+      },
+      "properties": {
+        "team": "Gillingham",
+        "league": "EFL League Two",
+        "stadium": "Priestfield Stadium",
+        "capacity": 11582,
+        "icon": "icons/gillingham.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.046512,
+          53.57023
+        ]
+      },
+      "properties": {
+        "team": "Grimsby Town",
+        "league": "EFL League Two",
+        "stadium": "Blundell Park",
+        "capacity": 9052,
+        "icon": "icons/grimsby_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.088499,
+          51.665159
+        ]
+      },
+      "properties": {
+        "team": "Harrogate Town",
+        "league": "EFL League Two",
+        "stadium": "Wetherby Road",
+        "capacity": 5000,
+        "icon": "icons/harrogate_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.73354,
+          52.009625
+        ]
+      },
+      "properties": {
+        "team": "Milton Keynes Dons",
+        "league": "EFL League Two",
+        "stadium": "Stadium MK",
+        "capacity": 30500,
+        "icon": "icons/milton_keynes_dons.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7879,
+          54.1239
+        ]
+      },
+      "properties": {
+        "team": "Morecambe",
+        "league": "EFL League Two",
+        "stadium": "Mazuma Mobile Stadium",
+        "capacity": 6476,
+        "icon": "icons/morecambe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0251166306431987,
+          51.68028643122347
+        ]
+      },
+      "properties": {
+        "team": "Newport County",
+        "league": "EFL League Two",
+        "stadium": "Rodney Parade",
+        "capacity": 7850,
+        "icon": "icons/newport_county.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.681557,
+          51.639946
+        ]
+      },
+      "properties": {
+        "team": "Notts County",
+        "league": "EFL League Two",
+        "stadium": "Meadow Lane",
+        "capacity": 19841,
+        "icon": "icons/notts_county.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.192698,
+          53.049956
+        ]
+      },
+      "properties": {
+        "team": "Port Vale",
+        "league": "EFL League Two",
+        "stadium": "Vale Park",
+        "capacity": 15036,
+        "icon": "icons/port_vale.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.276907,
+          53.513604
+        ]
+      },
+      "properties": {
+        "team": "Salford City",
+        "league": "EFL League Two",
+        "stadium": "Moor Lane",
+        "capacity": 5108,
+        "icon": "icons/salford_city.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.101079,
+          51.018906
+        ]
+      },
+      "properties": {
+        "team": "Swindon Town",
+        "league": "EFL League Two",
+        "stadium": "County Ground",
+        "capacity": 15728,
+        "icon": "icons/swindon_town.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.032617,
+          53.373679
+        ]
+      },
+      "properties": {
+        "team": "Tranmere Rovers",
+        "league": "EFL League Two",
+        "stadium": "Prenton Park",
+        "capacity": 16789,
+        "icon": "icons/tranmere_rovers.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.990498,
+          52.565501
+        ]
+      },
+      "properties": {
+        "team": "Walsall",
+        "league": "EFL League Two",
+        "stadium": "Bescot Stadium",
+        "capacity": 11300,
+        "icon": "icons/walsall.png"
+      }
+    }
+  ]
+}

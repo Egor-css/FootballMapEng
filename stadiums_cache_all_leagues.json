@@ -1,0 +1,358 @@
+{
+  "Premier League|Arsenal|Emirates Stadium": [
+    -0.1083996708672374,
+    51.55504035
+  ],
+  "Premier League|Aston Villa|Villa Park": [
+    -1.8850354312212985,
+    52.5091264
+  ],
+  "Premier League|Bournemouth|Vitality Stadium": [
+    -1.8383279465003122,
+    50.73518145
+  ],
+  "Premier League|Brentford|Gtech Community Stadium": [
+    -0.2889802136183117,
+    51.49071295
+  ],
+  "Premier League|Brighton & Hove Albion|American Express Stadium": [
+    -0.08369306377424417,
+    50.8615471
+  ],
+  "Premier League|Chelsea|Stamford Bridge": [
+    -0.19103357490972833,
+    51.4816869
+  ],
+  "Premier League|Crystal Palace|Selhurst Park": [
+    -0.085255058181276,
+    51.39824295
+  ],
+  "Premier League|Everton|Goodison Park": [
+    -2.9664192834741883,
+    53.43868975
+  ],
+  "Premier League|Fulham|Craven Cottage": [
+    -0.22174480031869306,
+    51.47492175
+  ],
+  "Premier League|Ipswich Town|Portman Road": [
+    -0.2911243,
+    51.4084984
+  ],
+  "Premier League|Leicester City|King Power Stadium": [
+    -1.1423352051152724,
+    52.62039695
+  ],
+  "Premier League|Liverpool|Anfield": [
+    -2.9609313526360888,
+    53.43091645
+  ],
+  "Premier League|Manchester City|Etihad Stadium": [
+    -2.2002520023433307,
+    53.48309105
+  ],
+  "Premier League|Manchester United|Old Trafford": [
+    -2.2913864850545362,
+    53.46310955
+  ],
+  "Premier League|Newcastle United|St James' Park": [
+    -1.621873666214279,
+    54.9754693
+  ],
+  "Premier League|Nottingham Forest|City Ground": [
+    -1.1328954461216225,
+    52.93993865
+  ],
+  "Premier League|Southampton|St Mary's Stadium": [
+    -1.3908773605860123,
+    50.90586145
+  ],
+  "Premier League|Tottenham Hotspur|Tottenham Hotspur Stadium": [
+    -0.0662604100000004,
+    51.604157
+  ],
+  "Premier League|West Ham United|London Stadium": [
+    -0.016623759002470637,
+    51.53862065
+  ],
+  "Premier League|Wolverhampton Wanderers|Molineux Stadium": [
+    -2.130407903777414,
+    52.590272299999995
+  ],
+  "EFL Championship|Blackburn Rovers|Ewood Park": [
+    -2.489225134256407,
+    53.728528299999994
+  ],
+  "EFL Championship|Bristol City|Ashton Gate": [
+    -2.620340547304729,
+    51.43986935
+  ],
+  "EFL Championship|Burnley|Turf Moor": [
+    -2.229894614670683,
+    53.78935525
+  ],
+  "EFL Championship|Cardiff City|Cardiff City Stadium": [
+    -3.2029625933115846,
+    51.47282115
+  ],
+  "EFL Championship|Coventry City|Coventry Building Society Arena": [
+    -1.4970173886934346,
+    52.44815815
+  ],
+  "EFL Championship|Derby County|Pride Park Stadium": [
+    -1.4473191031335255,
+    52.9149454
+  ],
+  "EFL Championship|Hull City|MKM Stadium": [
+    -0.36782385546195695,
+    53.746225749999994
+  ],
+  "EFL Championship|Leeds United|Elland Road": [
+    -0.05426082906951727,
+    51.45874487612999
+  ],
+  "EFL Championship|Luton Town|Kenilworth Road": [
+    -1.5451903642634965,
+    52.321457550000005
+  ],
+  "EFL Championship|Middlesbrough|Riverside Stadium": [
+    -1.2169153425640387,
+    54.57831335
+  ],
+  "EFL Championship|Millwall|The Den": [
+    -0.05091494800567984,
+    51.4859529
+  ],
+  "EFL Championship|Norwich City|Carrow Road": [
+    1.3093221998298497,
+    52.6220315
+  ],
+  "EFL Championship|Oxford United|Kassam Stadium": [
+    -1.2076598589935756,
+    51.71646665
+  ],
+  "EFL Championship|Plymouth Argyle|Home Park": [
+    -4.150874674059015,
+    50.388121549999994
+  ],
+  "EFL Championship|Portsmouth|Fratton Park": [
+    -1.0638835851982424,
+    50.79632375
+  ],
+  "EFL Championship|Preston North End|Deepdale": [
+    -2.6885608698191197,
+    53.7722148
+  ],
+  "EFL Championship|Queens Park Rangers|Loftus Road": [
+    -0.2305519,
+    51.5074463
+  ],
+  "EFL Championship|Sheffield United|Bramall Lane": [
+    -1.4707145437036182,
+    53.3703429
+  ],
+  "EFL Championship|Sheffield Wednesday|Hillsborough Stadium": [
+    -1.500631103337827,
+    53.41137895
+  ],
+  "EFL Championship|Stoke City|bet365 Stadium": [
+    -2.1755918764705897,
+    52.9883401
+  ],
+  "EFL Championship|Sunderland|Stadium of Light": [
+    -1.3882579326202478,
+    54.914395299999995
+  ],
+  "EFL Championship|Swansea City|Swansea.com Stadium": [
+    -3.9347390262570965,
+    51.6428065
+  ],
+  "EFL Championship|Watford|Vicarage Road": [
+    0.05483562412268848,
+    51.600930386917845
+  ],
+  "EFL Championship|West Bromwich Albion|The Hawthorns": [
+    -1.9636621072471818,
+    52.50916535
+  ],
+  "EFL League One|Barnsley|Oakwell": [
+    -1.4721952,
+    53.5521795
+  ],
+  "EFL League One|Birmingham City|St Andrew's": [
+    -1.8680410459264332,
+    52.47556705
+  ],
+  "EFL League One|Blackpool|Bloomfield Road": [
+    0.07149100425037533,
+    51.484961624052836
+  ],
+  "EFL League One|Bolton Wanderers|Toughsheet Community Stadium": [
+    -2.5356647666666667,
+    53.5805396
+  ],
+  "EFL League One|Bristol Rovers|Memorial Stadium": [
+    -2.583184439204857,
+    51.486259149999995
+  ],
+  "EFL League One|Burton Albion|Pirelli Stadium": [
+    -1.6269255768047586,
+    52.8218506
+  ],
+  "EFL League One|Cambridge United|Abbey Stadium": [
+    -1.7924328783217216,
+    51.60775495
+  ],
+  "EFL League One|Charlton Athletic|The Valley": [
+    0.03615848943681707,
+    51.486391499999996
+  ],
+  "EFL League One|Crawley Town|Broadfield Stadium": [
+    -0.19474282597671688,
+    51.099572699999996
+  ],
+  "EFL League One|Exeter City|St. James Park": [
+    -1.621873666214279,
+    54.9754693
+  ],
+  "EFL League One|Leyton Orient|Brisbane Road": [
+    -0.012599941188710662,
+    51.560071300000004
+  ],
+  "EFL League One|Lincoln City|Sincil Bank": [
+    -0.53973,
+    53.2235173
+  ],
+  "EFL League One|Mansfield Town|Field Mill": [
+    -1.2009171061272217,
+    53.1380561
+  ],
+  "EFL League One|Northampton Town|Sixfields Stadium": [
+    -0.933574120668077,
+    52.23526325
+  ],
+  "EFL League One|Reading|Madejski Stadium": [
+    -0.983123793539842,
+    51.422334649999996
+  ],
+  "EFL League One|Rotherham United|New York Stadium": [
+    -1.3626780163091192,
+    53.4267854
+  ],
+  "EFL League One|Shrewsbury Town|New Meadow": [
+    -2.749356535923094,
+    52.68861595
+  ],
+  "EFL League One|Stevenage|Broadhall Way": [
+    -0.19374052554511628,
+    51.88964785
+  ],
+  "EFL League One|Stockport County|Edgeley Park": [
+    -2.1664843988052693,
+    53.39964325
+  ],
+  "EFL League One|Wigan Athletic|Brick Community Stadium": [
+    -2.6540131151502147,
+    53.54773325
+  ],
+  "EFL League One|Wrexham|Racecourse Ground": [
+    -3.0036636060314574,
+    53.05182395
+  ],
+  "EFL League One|Wycombe Wanderers|Adams Park": [
+    -0.8001906938127916,
+    51.63056645
+  ],
+  "EFL League Two|Accrington Stanley|Crown Ground": [
+    -2.3709689757942467,
+    53.76540105
+  ],
+  "EFL League Two|AFC Wimbledon|Plough Lane": [
+    -0.1881273,
+    51.4284149
+  ],
+  "EFL League Two|Barrow|Holker Street": [
+    -1.7763572,
+    53.8017739
+  ],
+  "EFL League Two|Bradford City|Valley Parade": [
+    -1.7593827869834464,
+    53.804330449999995
+  ],
+  "EFL League Two|Bromley|Hayes Lane": [
+    0.01722073580695072,
+    51.384301256370875
+  ],
+  "EFL League Two|Carlisle United|Brunton Park": [
+    -2.9136003036411404,
+    54.89555315
+  ],
+  "EFL League Two|Cheltenham Town|Whaddon Road": [
+    -2.0602145006101154,
+    51.9061781
+  ],
+  "EFL League Two|Chesterfield|SMH Group Stadium": [
+    -1.4258192795945948,
+    53.25355805
+  ],
+  "EFL League Two|Colchester United|Colchester Community Stadium": [
+    0.8976478286513775,
+    51.92343905
+  ],
+  "EFL League Two|Crewe Alexandra|Gresty Road": [
+    -2.436550379628001,
+    53.08608342740759
+  ],
+  "EFL League Two|Doncaster Rovers|Eco-Power Stadium": [
+    -1.1137713027142797,
+    53.50977845
+  ],
+  "EFL League Two|Fleetwood Town|Highbury Stadium": [
+    -3.0246935646844704,
+    53.916397
+  ],
+  "EFL League Two|Gillingham|Priestfield Stadium": [
+    0.5609504058793893,
+    51.38421135
+  ],
+  "EFL League Two|Grimsby Town|Blundell Park": [
+    -0.04651168652452393,
+    53.570229749999996
+  ],
+  "EFL League Two|Harrogate Town|Wetherby Road": [
+    -0.0884988,
+    51.6651591
+  ],
+  "EFL League Two|Milton Keynes Dons|Stadium MK": [
+    -0.7335404421782048,
+    52.00962495
+  ],
+  "EFL League Two|Newport County|Rodney Parade": [
+    -5.9623188,
+    54.5872416
+  ],
+  "EFL League Two|Notts County|Meadow Lane": [
+    -2.6815571886211327,
+    51.6399462
+  ],
+  "EFL League Two|Port Vale|Vale Park": [
+    -2.192697740693575,
+    53.0499557
+  ],
+  "EFL League Two|Salford City|Moor Lane": [
+    -2.276907120491265,
+    53.51360435
+  ],
+  "EFL League Two|Swindon Town|County Ground": [
+    -3.1010787615312356,
+    51.01890555
+  ],
+  "EFL League Two|Tranmere Rovers|Prenton Park": [
+    -3.0326169736853017,
+    53.373679100000004
+  ],
+  "EFL League Two|Walsall|Bescot Stadium": [
+    -1.9904976390619957,
+    52.5655014
+  ]
+}
