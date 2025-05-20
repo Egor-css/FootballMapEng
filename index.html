@@ -26,9 +26,9 @@
       zoomControl: false
     }).setView([52.9, -1.5], 7);
     // Базовый слой OpenStreetMap
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors, СК: WGS 84',
-    minZoom: 4
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://carto.com/attributions">CARTO</a>, СК: WGS 84',
+      minZoom: 4
     }).addTo(map);
 
     // Инициализация групп слоев
