@@ -26,7 +26,7 @@
       zoomControl: false
     }).setView([52.9, -1.5], 7);
     // Базовый слой OpenStreetMap
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://carto.com/attributions">CARTO</a>, СК: WGS 84',
       minZoom: 4
     }).addTo(map);
@@ -100,8 +100,8 @@
             })
             .catch(error => console.error('Ошибка загрузки GeoJSON:', error));
 
-             // Загрузка стадионов с правильной обработкой структуры
-             fetch('data/english_football_2024_25.geojson')
+            // Загрузка стадионов с правильной обработкой структуры
+            fetch('data/english_football_2024_25.geojson')
       .then(res => res.json())
       .then(data => {
         const normalizedFeatures = data.features.map(feature => {
